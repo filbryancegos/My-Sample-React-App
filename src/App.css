@@ -1,5 +1,22 @@
+
+html, body {
+	height: 100%;
+	margin: 0;
+	background-color: #282c34;
+}
+
 .App {
   text-align: center;
+}
+
+.content {
+	padding: 20px;
+	min-height: 100%;
+	margin: 0 auto -50px;
+}
+
+footer {
+  height: 50px;
 }
 
 .App-logo {
